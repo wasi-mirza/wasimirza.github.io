@@ -1,2 +1,0 @@
-# wasimirza.github.io
-Portfolio
