@@ -545,14 +545,6 @@
 			}
 		
 		
-		.image.fitting {
-			margin: 0 0 2em 0;
-			width: 100%;
-		}
-
-			.image.fit img {
-				width: 100%;
-			}
 
 
 		.image.avatar {
@@ -568,18 +560,6 @@
 				width: 100%;
 			}
 
-
-		.div.polaroid {
-		  width: 80%;
-		  background-color: white;
-		  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-		  margin-bottom: 25px;
-		}
-
-		div.container {
-		  text-align: center;
-		  padding: 10px 20px;
-		}
 
 
 /* List */
