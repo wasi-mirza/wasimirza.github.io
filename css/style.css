@@ -548,10 +548,10 @@
 			display: block;
 			margin: 0 0 2em 0;
 			width: 100%;
-			background-color: #000;
+			background-color: #FFF;
 		}
 
-			.image.fit img {
+			.image.fitting img {
 				width: 100%;
 			}
 		
