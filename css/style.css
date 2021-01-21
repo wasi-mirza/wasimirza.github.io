@@ -907,6 +907,12 @@
 			cursor: default;
 		}
 
+/* Content for Image Projects */
+.content {
+  background-color: white;
+  padding: 10px;
+}
+
 /* Work Item */
 
 	.work-item {
